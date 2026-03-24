@@ -3,7 +3,7 @@
 # Markus Woelk
 ### Data Analyst · Business Controller · Finance & Markets
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markus-woelk-15655a184/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markus-woelk-15655a184/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markus.woelk98@gmail.com)
 [![Location](https://img.shields.io/badge/Waldsee%2C_Germany-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
